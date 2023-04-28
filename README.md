@@ -8,7 +8,6 @@ O sistema também possui validações para garantir a integridade dos dados inse
 
 
 Funcionalidades:
-O sistema deve ter as seguintes funcionalidades:
 
  – Menu de opções
 - o menu imprime mensagens com opções das funcionalidades descritas abaixo e o usuário 
