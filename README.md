@@ -1,5 +1,5 @@
 # Sistema-de-Gerenciamento-de-Alunos
->Projeto da disciplina de estrutura de dado para exercitar modularização, structs e ponteiros. 
+>Projeto da disciplina de estrutura de dados para exercitar modularização, structs e ponteiros. 
 
 O projeto é um sistema de cadastro de alunos que permite ao usuário realizar diversas operações, como cadastrar novos alunos, alterar dados, buscar alunos, listar alunos aprovados e reprovados por média e por falta, listar a turma e sair do programa.
 
